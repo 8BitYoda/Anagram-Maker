@@ -1,0 +1,17 @@
+﻿Build started 11/14/2013 2:22:29 PM.
+     1>Project "C:\Users\Martin\Documents\DataStructure\ProjectsF2013\Project5\Anagram Maker\Anagram Maker\Anagram Maker.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Anagram Maker.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Anagram Maker.vcxproj -> C:\Users\Martin\Documents\DataStructure\ProjectsF2013\Project5\Anagram Maker\Release\Anagram Maker.exe
+       FinalizeBuildStatus:
+         Deleting file "Release\Anagram Maker.unsuccessfulbuild".
+         Touching "Release\Anagram Maker.lastbuildstate".
+     1>Done Building Project "C:\Users\Martin\Documents\DataStructure\ProjectsF2013\Project5\Anagram Maker\Anagram Maker\Anagram Maker.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
